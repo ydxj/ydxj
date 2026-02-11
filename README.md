@@ -49,7 +49,7 @@ Passionate about building fast, scalable, and visually impactful digital product
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ydxj&theme=dracula" height="180" alt="streak stats" />
   <br/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydxj&layout=compact&theme=dracula" height="180" width="450" alt="languages graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ydxj&layout=donut-vertical&langs_count=10&theme=dracula" alt="languages graph" />
 </div>
 
 ---
