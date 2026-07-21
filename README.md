@@ -19,12 +19,12 @@ Passionate about building fast, scalable, and visually impactful digital product
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,nextjs,redux,bootstrap,vite,npm,gsap" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,nextjs,nuxtjs,vuejs,redux,bootstrap,tailwind,vite,npm,gsap,vite&perline=8" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,jwt" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,EJS,jwt" />
 </p>
 
 ### 🛢️ Databases
