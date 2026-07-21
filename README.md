@@ -2,12 +2,15 @@
 
 ### 🚀 Full‑Stack Developer from Morocco
 
-Passionate about building fast, scalable, and visually impactful digital products. I love turning ideas into fully functional applications using modern web technologies.
+Passionate about building modern, scalable, and user-focused web applications. I enjoy transforming ideas into real-world digital products with clean code, thoughtful UI/UX, and high performance.
+
+Currently representing **Morocco** in the **WorldSkills Shanghai 2026 – Web Technologies** competition while continuously expanding my expertise in full-stack development.
 
 ---
 
 ## 🧠 About Me
 
+* 🇲🇦 Representing **Morocco** at **WorldSkills Shanghai 2026** (Web Technologies)
 * 💻 Full‑Stack Developer (Frontend + Backend)
 * ⚡ Focused on clean code, UI/UX, and performance
 * 🌍 Based in Morocco
@@ -15,35 +18,39 @@ Passionate about building fast, scalable, and visually impactful digital product
 
 ---
 
-## 🔥 Tech Stack
+# 🔥 Tech Stack
 
 ### 🌐 Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,nextjs,nuxtjs,vuejs,redux,bootstrap,tailwind,vite,npm,vite&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,scss,js,react,nextjs,nuxtjs,vuejs,redux,bootstrap,tailwind,vite,npm&perline=8" />
 </p>
 
 ### ⚙️ Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,EJS,jwt" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
 </p>
 
 ### 🛢️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
-</p>
 
-### 🎨 Design Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
 </p>
 
 ### 🚀 DevOps & Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,jenkins,docker,kubernetes,linux,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,jenkins,docker,kubernetes,linux,postman" />
+</p>
+
+### 🎨 Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -54,39 +61,63 @@ Passionate about building fast, scalable, and visually impactful digital product
 
 ---
 
-## 🌐 Socials
+# 🌐 Connect With Me
 
-<div align="left">
-  <a href="https://www.youtube.com/@MasterGamerwoow" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://instagram.com/zrhouni_omar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:zrhounii.omar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/zerhouni-omar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" />
-  </a>
+<p align="left">
+
+<a href="https://ydxj.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/zerhouni-omar/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/zrhouni_omar">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://www.youtube.com/@MasterGamerwoow">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="mailto:zrhounii.omar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ☕ Support My Work
+
+If you enjoy my projects or would like to support my journey toward **WorldSkills Shanghai 2026**, you can buy me a coffee ❤️
+
+<p>
+
+<a href="https://ko-fi.com/zerhouni">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+<div>
+<img align="right" height="150" src="https://media4.giphy.com/media/tIeCLkB8geYtW/giphy.webp" />
 </div>
 
+> *"First, solve the problem. Then, write the code."* — John Johnson
+ 
+
+<br><br><br><br>
 ---
 
-## 🎨 Fun Touch
+<div align="center">
 
-<img align="right" height="150" src="https://media4.giphy.com/media/tIeCLkB8geYtW/giphy.webp" />
+### ⭐ Thanks for visiting my profile!
 
-> "Code is like art — the cleaner it is, the more powerful it becomes."
+*"Building today, improving tomorrow."* 
 
----
-
-## 📌 Currently Working On
-
-* ⚙️ Building full applications using React + PHP/MySQL
-* 🎥 Creating programming content
-* 🧪 Improving problem‑solving and algorithm skills
-
----
-
-Thanks for stopping by! 🚀
+</div>
