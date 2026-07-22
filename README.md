@@ -85,6 +85,7 @@ Currently representing **Morocco** in the **WorldSkills Shanghai 2026 – Web Te
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<img align="right" height="150" src="https://komarev.com/ghpvc/?username=ydxj&style=for-the-badge" />
 </p>
 
 ---
